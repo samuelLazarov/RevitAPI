@@ -1,0 +1,7 @@
+D:\Revit - Create C#Plugins\Exercises\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+D:\Revit - Create C#Plugins\Exercises\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+D:\Revit - Create C#Plugins\Exercises\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+D:\Revit - Create C#Plugins\Exercises\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.AssemblyReference.cache
+D:\Revit - Create C#Plugins\Exercises\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+D:\Revit - Create C#Plugins\Exercises\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+D:\Revit - Create C#Plugins\Exercises\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
